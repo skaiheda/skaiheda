@@ -15,7 +15,7 @@
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=omni)
 
 <!--
 **skaiheda/skaiheda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
