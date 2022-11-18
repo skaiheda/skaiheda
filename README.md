@@ -13,9 +13,10 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=omni)
 -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=omni)
+
 
 <!--
 **skaiheda/skaiheda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
